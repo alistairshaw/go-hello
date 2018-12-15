@@ -1,0 +1,11 @@
+version: "2"
+
+services:
+  app:
+    image: golang
+    volumes:
+      - .:/go/go-hello
+    working_dir: /go/go-hello
+    command: go run main.go
+    ports:
+            - 5000:80
