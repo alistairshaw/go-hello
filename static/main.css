@@ -1,0 +1,13 @@
+body {
+    padding: 10px;
+    background: #f0f0f0;
+}
+
+h1 {
+    font-weight: 300;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 1.4em;
+}
