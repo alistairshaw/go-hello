@@ -4,8 +4,8 @@ services:
   app:
     image: golang:1.9-alpine
     volumes:
-      - .:/go/go-hello
-    working_dir: /go/go-hello
+      - .:/go/src/go-hello
+    working_dir: /go/src/go-hello
     build: .
     ports:
       - 3000:3000

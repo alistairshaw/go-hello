@@ -1,0 +1,45 @@
+body {
+    padding: 10px;
+    background: #f0f0f0;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-weight: 300;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 1.4em;
+}
+
+.form-group {
+    width: 40%;
+    margin: 0 0 20px 0;
+}
+
+label {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 6px;
+}
+
+input {
+    height: 32px;
+}
+
+textarea {
+    height: 160px;
+}
+
+input, textarea {
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 6px;
+}
+
+button {
+    border: 1px solid #ccc;
+    padding: 6px 12px;
+    font-size: 0.9em;
+}

@@ -1,0 +1,7 @@
+{
+    "SMTPHost": "",
+    "SMTPPort": 587,
+    "SMTPUser": "",
+    "SMTPEmailAddress": "",
+    "SMTPPassword": ""
+}
