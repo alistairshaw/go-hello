@@ -3,5 +3,6 @@
     "SMTPPort": 587,
     "SMTPUser": "",
     "SMTPEmailAddress": "",
-    "SMTPPassword": ""
+    "SMTPPassword": "",
+    "LogRoutesToConsole": false
 }
